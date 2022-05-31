@@ -1,0 +1,127 @@
+header{
+    margin: 0; 
+}
+
+.navbar{
+background-color: #28A745 !important;
+}
+
+.navbar-brand{
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+padding-left: 40px;
+}
+
+.nav-link active{
+font-family: 'Roboto', sans-serif;
+font-size:20px;
+}
+
+.row{
+padding: 30px;
+}
+
+form{
+background-color: #28A745;
+}
+
+.card-text1{
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+font-weight: 1;
+color:#212529;
+}
+
+.card-text2{
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 10;
+color: #707070;
+}
+
+.direction1{
+color: #707070;
+font-family: 'Roboto', sans-serif;
+font-size: 13px;
+font-weight: 10;
+}
+
+.form-label{
+color: white;
+}
+
+.container{
+padding: 20px;
+text-align: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.fa-solid{
+color: #707070;
+padding: 10px;
+display: flex;
+align-items: center;
+}
+
+.precio{
+display: flex;
+}
+
+a{
+ text-decoration: none;   
+}
+
+.precio1{
+display: flex;
+align-items: center;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+}
+
+.precio2{
+font-size: 20px;
+padding-left: 30px;
+color:#28A745;
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+}
+
+.form-label{
+font-family: 'Roboto', sans-serif;
+font-size: 21px;
+}
+
+.form-control{
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 10;
+}
+
+
+
+.btn{
+background-color: white;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+}
+
+
+
+.cuppon{
+display: flex;
+justify-content: center;
+}
+
+.imagenfinal1{
+width: 15%;
+}
+
+.ultimo{
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+color: #707070;
+font-weight: 10;
+}
